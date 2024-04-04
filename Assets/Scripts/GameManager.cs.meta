@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8eab5f7ff9a6a447488af3a7d7991ab0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - scoreText: {instanceID: 0}
+  - playerMovement: {instanceID: 0}
+  - powerUpPrefab: {fileID: 5895593933143672701, guid: 047a6eab23d8a420ca7f52ea05982106,
+      type: 3}
+  - spawnPoint: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
